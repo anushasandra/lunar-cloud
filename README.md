@@ -14,5 +14,5 @@ Install qgit
 Import the project as a git project.
 first 12
 
-
+thrid
 
